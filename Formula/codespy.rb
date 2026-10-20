@@ -3,8 +3,8 @@ class Codespy < Formula
 
   desc "Automated code review agent powered by DSPy"
   homepage "https://github.com/khezen/codespy"
-  url "https://files.pythonhosted.org/packages/source/c/codespy-ai/codespy_ai-2.0.1.tar.gz"
-  sha256 "5d621326455f03b7df054ca29490340f85cad1a0278f92395bb0b4d68660d074"
+  url "https://files.pythonhosted.org/packages/source/c/codespy-ai/codespy_ai-2.0.2.tar.gz"
+  sha256 "5067b8b79cb8634102e6b337a3b52b5a7dcd5041fdabeb66fb613d2d0277283c"
   license "MIT"
 
   depends_on "python@3.11"
